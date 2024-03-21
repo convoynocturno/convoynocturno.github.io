@@ -1,0 +1,11 @@
+Server: US Sim
+Salida: Paluel (Nucleon)
+Nav: La mejor
+Ruta: 1738 kms, 1:18 min
+
+Entrega mercancías a 5 plantas nucleares Francesas
+Paluel
+Saint - Laurent
+Civaux
+Saint - Alban - du - Rhone
+Golfech
