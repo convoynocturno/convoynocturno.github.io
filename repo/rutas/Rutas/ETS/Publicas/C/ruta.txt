@@ -1,0 +1,5 @@
+Salida: Hannover FCP
+Destino: Stuttgard FLE
+Despedita: Aeropuerto detrás de FLE
+Nav: La mejor + 2 puntos
+Server: US Sim
