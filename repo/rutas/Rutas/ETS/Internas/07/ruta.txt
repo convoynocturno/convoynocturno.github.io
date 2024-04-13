@@ -1,0 +1,4 @@
+Salida: Róterdam WGCC
+Destino: Bratislava WGCC
+Nav: La mejor
+Server: US Sim
