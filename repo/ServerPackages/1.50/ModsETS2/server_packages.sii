@@ -1,0 +1,1068 @@
+SiiNunit
+{
+server_packages_info : _nameless.22d.20fa.4e10 {
+ version: 1
+ dlc_essential_list: 0
+ dlc_non_essential_list: 8
+ dlc_non_essential_list[0]: 2583912098162477
+ dlc_non_essential_list[1]: 5557801920893741
+ dlc_non_essential_list[2]: 92094914797
+ dlc_non_essential_list[3]: 92649725589
+ dlc_non_essential_list[4]: 59316381
+ dlc_non_essential_list[5]: 50085130457797
+ dlc_non_essential_list[6]: 63651269
+ dlc_non_essential_list[7]: 2152080662829
+ mod_list: 95
+ mod_list[0]: _nameless.22a.080f.c5e0
+ mod_list[1]: _nameless.22a.080f.c940
+ mod_list[2]: _nameless.22a.080f.ca00
+ mod_list[3]: _nameless.22a.080f.cb80
+ mod_list[4]: _nameless.22a.080f.c760
+ mod_list[5]: _nameless.22a.080f.c4c0
+ mod_list[6]: _nameless.22a.080f.c520
+ mod_list[7]: _nameless.22a.080f.be00
+ mod_list[8]: _nameless.22a.080f.c040
+ mod_list[9]: _nameless.22a.080f.be60
+ mod_list[10]: _nameless.22a.080f.c6a0
+ mod_list[11]: _nameless.22a.080f.bec0
+ mod_list[12]: _nameless.22a.080f.cbe0
+ mod_list[13]: _nameless.22a.080f.cc40
+ mod_list[14]: _nameless.22a.080f.bf20
+ mod_list[15]: _nameless.22a.080f.c640
+ mod_list[16]: _nameless.22a.080f.c100
+ mod_list[17]: _nameless.22a.080f.bf80
+ mod_list[18]: _nameless.22a.080f.bfe0
+ mod_list[19]: _nameless.22a.080f.c160
+ mod_list[20]: _nameless.22a.080f.c220
+ mod_list[21]: _nameless.22a.080f.c280
+ mod_list[22]: _nameless.22a.080f.c2e0
+ mod_list[23]: _nameless.22a.080f.c340
+ mod_list[24]: _nameless.22a.0656.eee0
+ mod_list[25]: _nameless.22d.320d.7990
+ mod_list[26]: _nameless.22d.320d.7450
+ mod_list[27]: _nameless.22d.320d.7510
+ mod_list[28]: _nameless.22d.320d.7b70
+ mod_list[29]: _nameless.22d.320d.86b0
+ mod_list[30]: _nameless.22d.320d.8110
+ mod_list[31]: _nameless.22d.320d.84d0
+ mod_list[32]: _nameless.22d.320d.89b0
+ mod_list[33]: _nameless.22d.320d.79f0
+ mod_list[34]: _nameless.22d.320d.7f90
+ mod_list[35]: _nameless.22d.320d.7390
+ mod_list[36]: _nameless.22d.320d.7570
+ mod_list[37]: _nameless.22d.320d.7690
+ mod_list[38]: _nameless.22d.320d.7a50
+ mod_list[39]: _nameless.22d.320d.87d0
+ mod_list[40]: _nameless.22d.320d.75d0
+ mod_list[41]: _nameless.22d.320d.82f0
+ mod_list[42]: _nameless.22d.320d.7930
+ mod_list[43]: _nameless.22d.320d.7d50
+ mod_list[44]: _nameless.22d.320d.73f0
+ mod_list[45]: _nameless.22d.320d.7bd0
+ mod_list[46]: _nameless.22d.320d.72d0
+ mod_list[47]: _nameless.22d.320d.88f0
+ mod_list[48]: _nameless.22d.320d.7ab0
+ mod_list[49]: _nameless.22d.320d.7c30
+ mod_list[50]: _nameless.22d.320d.8530
+ mod_list[51]: _nameless.22d.320d.77b0
+ mod_list[52]: _nameless.22d.320d.8770
+ mod_list[53]: _nameless.22d.320d.7210
+ mod_list[54]: _nameless.22d.320d.74b0
+ mod_list[55]: _nameless.22d.320d.7270
+ mod_list[56]: _nameless.22d.320d.8650
+ mod_list[57]: _nameless.22d.320d.7c90
+ mod_list[58]: _nameless.22d.320d.8170
+ mod_list[59]: _nameless.22d.320d.7b10
+ mod_list[60]: _nameless.22d.320d.8350
+ mod_list[61]: _nameless.22d.320d.7630
+ mod_list[62]: _nameless.22d.320d.76f0
+ mod_list[63]: _nameless.22d.320d.8590
+ mod_list[64]: _nameless.22d.320d.8710
+ mod_list[65]: _nameless.22d.320d.8290
+ mod_list[66]: _nameless.22d.320d.7ff0
+ mod_list[67]: _nameless.22d.320d.7750
+ mod_list[68]: _nameless.22d.320d.8050
+ mod_list[69]: _nameless.22d.320d.8230
+ mod_list[70]: _nameless.22d.320d.7cf0
+ mod_list[71]: _nameless.22d.320d.8950
+ mod_list[72]: _nameless.22d.320d.7810
+ mod_list[73]: _nameless.22d.320d.7870
+ mod_list[74]: _nameless.22d.320d.7db0
+ mod_list[75]: _nameless.22d.320d.81d0
+ mod_list[76]: _nameless.22d.320d.83b0
+ mod_list[77]: _nameless.22d.320d.7330
+ mod_list[78]: _nameless.22d.320d.7e70
+ mod_list[79]: _nameless.22d.320d.78d0
+ mod_list[80]: _nameless.22d.320d.7ed0
+ mod_list[81]: _nameless.22d.320d.80b0
+ mod_list[82]: _nameless.22d.320d.8410
+ mod_list[83]: _nameless.22d.320d.7e10
+ mod_list[84]: _nameless.22d.320d.7f30
+ mod_list[85]: _nameless.22d.320d.8470
+ mod_list[86]: _nameless.22d.320d.85f0
+ mod_list[87]: _nameless.22d.320d.8830
+ mod_list[88]: _nameless.22d.320d.8890
+ mod_list[89]: _nameless.22d.320d.90d0
+ mod_list[90]: _nameless.22d.320d.8fb0
+ mod_list[91]: _nameless.22d.320d.8e90
+ mod_list[92]: _nameless.22d.320d.8e30
+ mod_list[93]: _nameless.22d.320d.8ef0
+ mod_list[94]: _nameless.22d.320d.8bf0
+ map_name: "/map/europe.mbd"
+ map_dimensions: (-24576000, -16384000, 20480000, 20480000)
+ roads_data_file_name: "/home/server_packages.dat"
+ time_stamp: 1716258420
+ time_compression: 15.560001
+}
+
+server_mod_detail : _nameless.22a.080f.c5e0 {
+ package_name: Pasajeros_ETS2
+ mod_name: Pasajeros_ETS2
+ checksum: 5209855208496140328
+ mod_id: 10871093725028307231
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22a.080f.c940 {
+ package_name: "ModShop Marcopolo Paradiso G8 1800 DD SC v1.4.1 Base"
+ mod_name: "Paradiso G8 1800 DD"
+ checksum: 4670261026672499042
+ mod_id: 1683903558346328403
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22a.080f.ca00 {
+ package_name: "ModShop Marcopolo Paradiso G8 1800 DD SC v1.4.1 Skins"
+ mod_name: "Paradiso G8 1800 DD - ED"
+ checksum: 16211711526915787766
+ mod_id: 15146933439800626424
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22a.080f.cb80 {
+ package_name: "ModShop Marcopolo Paradiso G8 1800 DD SC v1.4.1 Activador"
+ mod_name: "MEU ATIVADOR"
+ checksum: 1039230355389957288
+ mod_id: 43035431022888190
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22a.080f.c760 {
+ package_name: "ModShop Marcopolo Paradiso G8 1800 DD MB v1.4.2 Activador"
+ mod_name: "G8 1800DD MB - ATIVADOR"
+ checksum: 12080180336169347887
+ mod_id: 187448988691959287
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22a.080f.c4c0 {
+ package_name: "ModShop Marcopolo Paradiso G8 1800 DD MB v1.4.2 Base"
+ mod_name: "G8 1800DD - MBO500RSDD"
+ checksum: 2368796611688975592
+ mod_id: 12885164532537030223
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22a.080f.c520 {
+ package_name: "ModShop Marcopolo Paradiso G8 1800 DD MB v1.4.2 Skins"
+ mod_name: "G8 1800DD MB - EDIT"
+ checksum: 1033945930062630445
+ mod_id: 14045438001676934259
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22a.080f.be00 {
+ package_name: "ModShop Marcopolo Paradiso G8 1600 LD SC v1.1 Activador"
+ mod_name: "Paradiso G8 1600 LD - At"
+ checksum: 12250893985442639567
+ mod_id: 10222803847379695445
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22a.080f.c040 {
+ package_name: "ModShop Marcopolo Paradiso G8 1600 LD SC v1.1 Base"
+ mod_name: "Paradiso G8 1600 LD"
+ checksum: 1796925012264231490
+ mod_id: 11058767615465117727
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22a.080f.be60 {
+ package_name: "ModShop Marcopolo Paradiso G8 1600 LD SC v1.0 Skins"
+ mod_name: "Paradiso G8 1600 LD - ED"
+ checksum: 8097955264925232413
+ mod_id: 1672423620854750805
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22a.080f.c6a0 {
+ package_name: "ModShop Marcopolo Paradiso G8 1600 LD VL v1.0 Activador"
+ mod_name: "G8 1600LD - VOLVO ATIVAD"
+ checksum: 14387405327370999563
+ mod_id: 6987348514152300730
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22a.080f.bec0 {
+ package_name: "ModShop Marcopolo Paradiso G8 1600 LD VL v1.0 Base"
+ mod_name: "G8 1600LD - VOLVO EURO 6"
+ checksum: 13995667825614659851
+ mod_id: 1139936965076757359
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22a.080f.cbe0 {
+ package_name: "ModShop Marcopolo Paradiso G8 1600 LD VL v1.0 Skins"
+ mod_name: "G8 1600LD - VOLVO EDIT"
+ checksum: 5802598259566720901
+ mod_id: 11326770904215029715
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22a.080f.cc40 {
+ package_name: "ModShop Marcopolo Paradiso G7 1800 DD v3.5 Activador"
+ mod_name: "G7 1800 DD - ATIVADOR"
+ checksum: 14014013876314522683
+ mod_id: 15808321086143094277
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22a.080f.bf20 {
+ package_name: "ModShop Marcopolo Paradiso G7 1800 DD v3.5 Base"
+ mod_name: "Paradiso G7 1800 DD"
+ checksum: 468671870862637985
+ mod_id: 7002866113390497135
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22a.080f.c640 {
+ package_name: "ModShop Marcopolo Paradiso G7 1800 DD v3.3 Skins"
+ mod_name: "Paradiso G7 1800 DD skin"
+ checksum: 18117872690325334306
+ mod_id: 16056274320414253280
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22a.080f.c100 {
+ package_name: "ModShop Marcopolo Paradiso G7 1600 LD SC v3.5 Activador"
+ mod_name: "ATIVADOR - G7 1600 LD"
+ checksum: 18339675156271408517
+ mod_id: 7630506061554113437
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22a.080f.bf80 {
+ package_name: "ModShop Marcopolo Paradiso G7 1600 LD SC v3.5 Base"
+ mod_name: "Paradiso G7 1600 LD"
+ checksum: 6875861944700020413
+ mod_id: 9478905878410589439
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22a.080f.bfe0 {
+ package_name: "ModShop Marcopolo Paradiso G7 1600 LD SC v3.3 Skins"
+ mod_name: "Paradiso G7 1600 LD - SK"
+ checksum: 5723945692291520288
+ mod_id: 16693903253274209032
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22a.080f.c160 {
+ package_name: "ModShop Marcopolo Paradiso G7 1350 MB v2.5 Activador"
+ mod_name: "Paradiso G7 1350MB - ATI"
+ checksum: 8611345730336812945
+ mod_id: 13475330534525210843
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22a.080f.c220 {
+ package_name: "ModShop Marcopolo Paradiso G7 1350 MB v2.5 Base"
+ mod_name: "Paradiso G7 1350 - MBO50"
+ checksum: 8652455567062178267
+ mod_id: 9249019504218802593
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22a.080f.c280 {
+ package_name: "ModShop Marcopolo Paradiso G7 1350 MB v2.5 Skins"
+ mod_name: "Paradiso G7 1350MB - EDI"
+ checksum: 2157956631623996826
+ mod_id: 8889541668128053911
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22a.080f.c2e0 {
+ package_name: "ModShop Marcopolo Paradiso G7 1350 VL v2.5 Activador"
+ mod_name: "Paradiso G7 1350 - ATIVA"
+ checksum: 11579066474014418807
+ mod_id: 9909850974135363690
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22a.080f.c340 {
+ package_name: "ModShop Marcopolo Paradiso G7 1350 VL v2.5 Base"
+ mod_name: "Paradiso G7 1350 Volvo B"
+ checksum: 9794185547787878863
+ mod_id: 15311913557733164432
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22a.0656.eee0 {
+ package_name: "ModShop Marcopolo Paradiso G7 1350 VL v2.3 Skins"
+ mod_name: "Paradiso G7 1350 B420R -"
+ checksum: 8047517777616516431
+ mod_id: 4289611523105347846
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22d.320d.7990 {
+ package_name: "ModShop Marcopolo Paradiso G7 1200 MB Facelift v3.6 Activador"
+ mod_name: "Paradiso G7 1200 - ATIVA"
+ checksum: 955351621455624831
+ mod_id: 10672884452195604968
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22d.320d.7450 {
+ package_name: "ModShop Marcopolo Paradiso G7 1200 MB Facelift v3.6 Base"
+ mod_name: "Paradiso G7 1200 facelif"
+ checksum: 8922188812903724323
+ mod_id: 6682223599423488870
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22d.320d.7510 {
+ package_name: "ModShop Marcopolo Paradiso G7 1200 MB Facelift v3.4 Skins"
+ mod_name: "Paradiso G7 1200 - EDIT"
+ checksum: 12419804438424438767
+ mod_id: 10974619867142744881
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.7b70 {
+ package_name: "ModShop Marcopolo Paradiso G7 1200 SC Facelift v3.6 Activador"
+ mod_name: "G7 1200 SCANIA - ATIVADO"
+ checksum: 17053170037908651132
+ mod_id: 1080400432621415522
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22d.320d.86b0 {
+ package_name: "ModShop Marcopolo Paradiso G7 1200 SC Facelift v3.6 Base"
+ mod_name: "Paradiso G7 1200 - SCANI"
+ checksum: 14266641294696196173
+ mod_id: 13241794388477551386
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22d.320d.8110 {
+ package_name: "ModShop Marcopolo Paradiso G7 1200 SC Facelift v3.6 Skins"
+ mod_name: "G7 1200 SCANIA - EDIT"
+ checksum: 3078076835797912780
+ mod_id: 11875043117198411134
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.84d0 {
+ package_name: "ModShop Marcopolo Paradiso G6 1200 SC v3.5 Activador"
+ mod_name: "G6 1200 - SCANIA ATIVADO"
+ checksum: 12601076597612121478
+ mod_id: 8929624428367743593
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22d.320d.89b0 {
+ package_name: "ModShop Marcopolo Paradiso G6 1200 SC v3.5 Base"
+ mod_name: "G6 1200 - SCANIA k124"
+ checksum: 2915502831408897432
+ mod_id: 1478351151813542917
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.79f0 {
+ package_name: "ModShop Marcopolo Paradiso G6 1200 SC v3.5 Skins"
+ mod_name: "G6 1200 - SCANIA EDIT"
+ checksum: 15893286229742705431
+ mod_id: 11198850410706091083
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.7f90 {
+ package_name: "ModShop Marcopolo Paradiso G6 1200 MB v3.5 Activador"
+ mod_name: "Paradiso G6 1200 - ATIVA"
+ checksum: 17290385250769443504
+ mod_id: 18430359895284577262
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22d.320d.7390 {
+ package_name: "ModShop Marcopolo Paradiso G6 1200 MB v3.5 Base"
+ mod_name: "Paradiso G6 1200 MBO500R"
+ checksum: 9748731678986352569
+ mod_id: 13934780683364899251
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22d.320d.7570 {
+ package_name: "ModShop Marcopolo Paradiso G6 1200 MB v3.3 Skins"
+ mod_name: "Paradiso G6 1200 - EDIT"
+ checksum: 1362476369369592250
+ mod_id: 14595862657490110781
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.7690 {
+ package_name: "ModShop Comil Invictus DD v2.6 Activador"
+ mod_name: "INVICTUS DD - MEU ATIVAD"
+ checksum: 711903397115897196
+ mod_id: 3838046275844727319
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22d.320d.7a50 {
+ package_name: "ModShop Comil Invictus DD v2.6 Base"
+ mod_name: "INVICTUS DD VOLVO"
+ checksum: 17045118923049463438
+ mod_id: 14948291982527335981
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.87d0 {
+ package_name: "ModShop Comil Invictus DD v2.4 Skins"
+ mod_name: "INVICTUS DD - EDIT"
+ checksum: 3997131091216836775
+ mod_id: 11858438389537693467
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.75d0 {
+ package_name: "ModShop Comil Campione 3.65 v1.4 Activador"
+ mod_name: "CAMPIONE 3.65 - O500RSD"
+ checksum: 12390688757551004931
+ mod_id: 7163596392738019367
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.82f0 {
+ package_name: "ModShop Comil Campione 3.65 v1.4 Base"
+ mod_name: "CAMPIONE 3.65 - O500RSD"
+ checksum: 738440604250931663
+ mod_id: 4991202853621379727
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.7930 {
+ package_name: "ModShop Comil Campione 3.65 v1.2 Skins"
+ mod_name: "CAMPIONE 3.65 - SKIN EDI"
+ checksum: 8556672186454282243
+ mod_id: 13249484665210670028
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22d.320d.7d50 {
+ package_name: "ModShop Busccar Vissta Buss DDMB v2.5 Activador"
+ mod_name: "Vissta Buss DD - ATIVADO"
+ checksum: 16320007957293118758
+ mod_id: 16120965651553437461
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22d.320d.73f0 {
+ package_name: "ModShop Busccar Vissta Buss DDMB v2.5 Base"
+ mod_name: "Vissta Buss DD - 8x2 15M"
+ checksum: 15158020007769559980
+ mod_id: 5002261589061256204
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.7bd0 {
+ package_name: "ModShop Busccar Vissta Buss DDMB v2.3 Skins"
+ mod_name: "Vissta Buss DD - SKIN ED"
+ checksum: 11545443018299306090
+ mod_id: 7928003932288556208
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22d.320d.72d0 {
+ package_name: "ModShop Busscar 360 Jum Buss v3.5 Activador"
+ mod_name: "Busscar Jumbuss 360 - AT"
+ checksum: 6774659180355271219
+ mod_id: 6683684397858589353
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22d.320d.88f0 {
+ package_name: "ModShop Busscar 360 Jum Buss v3.5 Base"
+ mod_name: "Busscar Jumbuss 360"
+ checksum: 10512897402747533251
+ mod_id: 1485269789613117368
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.7ab0 {
+ package_name: "ModShop Busscar 360 Jum Buss v3.3 Skins"
+ mod_name: "Busscar Jumbuss 360 - SK"
+ checksum: 7786261822757881930
+ mod_id: 9309498715089781222
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22d.320d.7c30 {
+ package_name: "ModShop accesorio placas CN"
+ mod_name: "ModShop Edit"
+ checksum: 218549427764505011
+ mod_id: 1091315386537539435
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.8530 {
+ package_name: "ModShop accesorio letrero CN"
+ mod_name: "ModShop Edit - Slot 2"
+ checksum: 6700691387754815239
+ mod_id: 10908967696066984849
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.77b0 {
+ package_name: "ModShop Volkswagen Titan v5.1 Activador"
+ mod_name: "TITAN - ATIVADOR"
+ checksum: 8129264820475110003
+ mod_id: 10175704130296120796
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.8770 {
+ package_name: "ModShop Volkswagen Titan v5.1 Base"
+ mod_name: "Volkswagen TITAN"
+ checksum: 6413220240577929623
+ mod_id: 14568997013698820680
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.7210 {
+ package_name: "ModShop Volkswagen Titan v4.4 Skin"
+ mod_name: "TITAN - EDIT"
+ checksum: 5102515039643238072
+ mod_id: 7899738721911991491
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.74b0 {
+ package_name: "ModShop Volvo NH12 v6.1 Activador"
+ mod_name: "VOLVO NH - ATIVADOR"
+ checksum: 6914377638625916953
+ mod_id: 11591025998259184263
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.7270 {
+ package_name: "ModShop Volvo NH12 v6.1 Base"
+ mod_name: "VOLVO NH 12 TRUCK"
+ checksum: 2131157220041291633
+ mod_id: 8143832165285679904
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.8650 {
+ package_name: "ModShop Volvo NH12 v5.4 Skins"
+ mod_name: "VOLVO NH - EDIT"
+ checksum: 7853389230776240241
+ mod_id: 8482179135463074269
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.7c90 {
+ package_name: "ModShop Volvo FH13 v7.1 Activador"
+ mod_name: "VOLVO FH 13 - ATIVADOR"
+ checksum: 487181592947421651
+ mod_id: 7742066317359521232
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.8170 {
+ package_name: "ModShop Volvo FH13 v7.1 Base"
+ mod_name: "VOLVO FH 13 Ishift Euro "
+ checksum: 5715672277771438384
+ mod_id: 2322668934091320443
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22d.320d.7b10 {
+ package_name: "ModShop Volvo FH13 v6.4 Skins"
+ mod_name: "VOLVO FH 13 - EDIT"
+ checksum: 5909140378834365518
+ mod_id: 12992095191826815137
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.8350 {
+ package_name: "ModShop Volkswagen Constellation 7.7 Activador"
+ mod_name: "VW Const - ATIVADOR"
+ checksum: 15822128552771471333
+ mod_id: 823003770921405373
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.7630 {
+ package_name: "ModShop Volkswagen Constellation 7.7 Base"
+ mod_name: "VW Constellation"
+ checksum: 11865665999701534221
+ mod_id: 6990754587300979690
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.76f0 {
+ package_name: "ModShop Volkswagen Constellation 7.4 Skins"
+ mod_name: "VW Const - EDIT"
+ checksum: 16880598066582587595
+ mod_id: 10462806416197767411
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.8590 {
+ package_name: "CD3DShop Pack de ruedas"
+ mod_name: "WHEELS PACK CD3DSHOP"
+ checksum: 14956205650572341723
+ mod_id: 867412107319468262
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.8710 {
+ package_name: "CD3DShop Marcopolo Viaggio G7 900 Multichasis P1 v1.50"
+ mod_name: "I - VIAGGIO 900 MULTI"
+ checksum: 2710900530737407492
+ mod_id: 2770764074120361487
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.8290 {
+ package_name: "CD3DShop Marcopolo Viaggio G7 900 Multichasis P2 v1.50"
+ mod_name: "II - VIAGGIO 900 MULTI"
+ checksum: 15759404509958697746
+ mod_id: 14876488487079016320
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.7ff0 {
+ package_name: "CD3DShop Marcopolo Paradiso New G7 1600 LD P1 v1.50"
+ mod_name: "I - NEW G7 1600 LD"
+ checksum: 4950536414275149175
+ mod_id: 13230544432232345982
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.7750 {
+ package_name: "CD3DShop Marcopolo Paradiso New G7 1600 LD P2 v1.50"
+ mod_name: "II - NEW G7 1600 LD"
+ checksum: 2424821629047705312
+ mod_id: 16367763814213713795
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.8050 {
+ package_name: "CD3DShop Marcopolo Paradiso New G7 1800 DD SC P1 v1.50"
+ mod_name: "I - NEW G7 1800 DD"
+ checksum: 7379812199545437489
+ mod_id: 18407690660987841761
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.8230 {
+ package_name: "CD3DShop Marcopolo Paradiso New G7 1800 DD SC P2 v1.50"
+ mod_name: "II - NEW G7 1800 DD"
+ checksum: 7313568948744043040
+ mod_id: 13005332629212740738
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.7cf0 {
+ package_name: "CD3DShop Marcopolo Paradiso G8 1200 Multichasis P1 v1.50"
+ mod_name: "I - G8 1200 MULTI"
+ checksum: 5425141903031678019
+ mod_id: 17586309623415271803
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.8950 {
+ package_name: "CD3DShop Marcopolo Paradiso G8 1200 Multichasis P2 v1.50"
+ mod_name: "II - G8 1200 MULTI"
+ checksum: 11608892808466973289
+ mod_id: 8670591524972844488
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.7810 {
+ package_name: "CD3DShop Busscar Vissta Buss 360 P1 v1.50"
+ mod_name: "I - Vissta Buss 360"
+ checksum: 2294338882690208062
+ mod_id: 6852959337554350001
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.7870 {
+ package_name: "CD3DShop Busscar Vissta Buss 360 P2 v1.50"
+ mod_name: "II - Vissta Buss 360"
+ checksum: 5444397460323174585
+ mod_id: 213696765092606047
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.7db0 {
+ package_name: "CD3DShop Busscar Vissta Buss 400 VL P1 v1.50"
+ mod_name: "I - Vissta Buss 400"
+ checksum: 8061776874741977878
+ mod_id: 13138129018141455805
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.81d0 {
+ package_name: "CD3DShop Busscar Vissta Buss 400 VL P2 v1.50"
+ mod_name: "II - Vissta Buss 400"
+ checksum: 1640859676345274347
+ mod_id: 7204934048265892520
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.83b0 {
+ package_name: "CD3DShop Irizar I6S SC BR P1 v1.50"
+ mod_name: "I - Irizar I6S BR"
+ checksum: 17631295579101075021
+ mod_id: 12956126364833378824
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.7330 {
+ package_name: "CD3DShop Irizar I6S SC BR P2 v1.50"
+ mod_name: "II - Irizar I6S BR"
+ checksum: 12357939584947914792
+ mod_id: 13867223682635746517
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.7e70 {
+ package_name: "CD3DShop Volvo 9800 DD P1 v1.50"
+ mod_name: "I - Volvo 9800DD"
+ checksum: 14364488374916776060
+ mod_id: 10857051534278488166
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.78d0 {
+ package_name: "CD3DShop Volvo 9800 DD P2 v1.50"
+ mod_name: "II - Volvo 9800DD"
+ checksum: 9924182324504942112
+ mod_id: 11173859531699622645
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.7ed0 {
+ package_name: "CD3DShop Volvo 9800 DD Skins v1.50"
+ mod_name: "Pack Skins BR Volvo 9800"
+ checksum: 11595785101061248851
+ mod_id: 7863606084420149728
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22d.320d.80b0 {
+ package_name: "CD3DShop Comil Campione 4.05 HD P1 v1.50"
+ mod_name: "I - Comil 4.05 HD"
+ checksum: 13172638542468989567
+ mod_id: 10098189965700070586
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.8410 {
+ package_name: "CD3DShop Comil Campione 4.05 HD P2 v1.50"
+ mod_name: "II - Comil 4.05 HD"
+ checksum: 521930840509362953
+ mod_id: 956547857615490287
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.7e10 {
+ package_name: "CD3DShop Sultana Imperial 1973 P1 v1.50"
+ mod_name: "I - SULTANA SUPERPANORAM"
+ checksum: 1894559428332475447
+ mod_id: 16930527607960833015
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22d.320d.7f30 {
+ package_name: "CD3DShop Sultana Imperial 1973 P2 v1.50"
+ mod_name: "II - SULTANA SUPERPANORA"
+ checksum: 10857875823396551846
+ mod_id: 13203105715049430713
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22d.320d.8470 {
+ package_name: "Normanmods Pack de Ruedas v1.49"
+ mod_name: "Pack de rodas Norman Mod"
+ checksum: 11613935887506128797
+ mod_id: 8980869304896071618
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22d.320d.85f0 {
+ package_name: "Normanmods Mercedes Monobloco O400RSD V3 v.1.49"
+ mod_name: "Mercedes-Benz Monobloco "
+ checksum: 1444131191079273525
+ mod_id: 3440203376391115889
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22d.320d.8830 {
+ package_name: "Normanmods Tecnobus Superbus Tribus II Multiclasis V2 v.1.49"
+ mod_name: "Tecnobus Tribus II"
+ checksum: 11327726630409456184
+ mod_id: 16379174972099876138
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.8890 {
+ package_name: "Normanmods Tecnobus Superbus Tribus III V4 v.1.49"
+ mod_name: "Normanmods Tecnobus Supe"
+ checksum: 7686160147117717609
+ mod_id: 10270694424909592372
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22d.320d.90d0 {
+ package_name: "Normanmods Tecnobus Superbus Tribus IV Multiclasis V2 v.1.49"
+ mod_name: "Tecnobus Tribus IV"
+ checksum: 8535860849293193991
+ mod_id: 8469148508887185115
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.8fb0 {
+ package_name: "Normanmods Busscar Vissta Buss HI-O400RSD V2"
+ mod_name: "Busscar Vissta Bus HI O4"
+ checksum: 8426523638063936553
+ mod_id: 2076260854564036846
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22d.320d.8e90 {
+ package_name: "Normanmods Marcopolo Paradiso New G7 1200 V3 Multichasis"
+ mod_name: "Marcopolo New G7 1200 MB"
+ checksum: 6902356551193277259
+ mod_id: 3176887716624949559
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22d.320d.8e30 {
+ package_name: "Normanmods Marcopolo Paradiso G6 1550 LD V3 Multiclasis v1.49"
+ mod_name: "Marcopolo G6 1550 LD MB/"
+ checksum: 11928390725767981789
+ mod_id: 6831490992940032073
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.22d.320d.8ef0 {
+ package_name: "Normanmods Marcopolo Paradiso G7 1600 LD MB v1.49"
+ mod_name: "Marcopolo G7 1600 LD MB"
+ checksum: 6079226729892146313
+ mod_id: 12708058563548147754
+ workshop_mod: false
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.22d.320d.8bf0 {
+ package_name: "Normanmods Busscar Vissta Buss 365 NB1 v1.49"
+ mod_name: "Busscar Vissta Bus 365 N"
+ checksum: 1650304178398897785
+ mod_id: 10525315241175105423
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+}
