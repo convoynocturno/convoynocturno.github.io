@@ -1,9 +1,0 @@
-Server: US Sim
-Salida:  Gothenburg (Volvo)
-Destino: Londres (Volvo)
-Nav: La mejor + 2 puntos
-Ruta: 1830 kms, 1:29 min
-
-Entrega Camiones Volvo
-
-

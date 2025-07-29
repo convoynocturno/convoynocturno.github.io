@@ -1,4 +1,0 @@
-Salida: Bratislava WGCC
-Destino: Hannover FCP
-Nav: La mejor + 2 puntos
-Server: US Sim

@@ -1,4 +1,0 @@
-Salida: Londres NBFC
-Destino: Glasgow Steinbruch
-Nav: La mejor + 3 puntos.
-Server: US Sim
